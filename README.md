@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on:<br>Developing innovative generative AI solutions, including optimizing RAG pipelines and enhancing chatbot performance using advanced LLM technologies like Vicuna, BERT, and ChromaDB.<br><br>I’m looking to collaborate on:<br>Projects that involve data engineering, AI integration, and real-world applications of machine learning to improve efficiency and deliver actionable insights.<br><br>I’m looking for help with:<br>Exploring cutting-edge techniques in NLP and expanding expertise in large-scale data visualization and predictive modeling.<br><br>I’m currently learning:<br>Advanced methods for fine-tuning machine learning models, implementing cloud-based AI pipelines, and leveraging SAS Studio for predictive analytics.<br><br>Ask me about:<br>	•	Building ETL pipelines that improve data quality and efficiency.<br>	•	Enhancing business strategies with data-driven insights and interactive dashboards.<br>	•	Using generative AI to analyze cryptocurrency trends and forecast risks.<br><br>Fun fact:<br>Fun fact:<br>I’m the kind of person who can binge-watch Naruto, run 14 miles for fun, and still find time to analyze data—all while debating whether redbull or prewrokout fuel better decision-making.
+I’m currently working on:<br>Developing innovative generative AI solutions, including optimizing RAG pipelines and enhancing chatbot performance using advanced LLM technologies like Vicuna, BERT, and ChromaDB.<br><br>I’m looking to collaborate on:<br>Projects that involve data engineering, AI integration, and real-world applications of machine learning to improve efficiency and deliver actionable insights.<br><br>I’m looking for help with:<br>Exploring cutting-edge techniques in NLP and expanding expertise in large-scale data visualization and predictive modeling.<br><br>I’m currently learning:<br>Advanced methods for fine-tuning machine learning models, implementing cloud-based AI pipelines, and leveraging SAS Studio for predictive analytics.<br><br>Ask me about:<br>	•	Building ETL pipelines that improve data quality and efficiency.<br>	•	Enhancing business strategies with data-driven insights and interactive dashboards.<br>	•	Using generative AI to analyze cryptocurrency trends and forecast risks.<br><br>Fun fact:<br>I’m the kind of person who can binge-watch Naruto, run 14 miles for fun, and still find time to analyze data—all while debating whether redbull or prewrokout fuel better decision-making.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I’m currently working on:<br>Developing innovative generative AI solutions, in
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kumarpriyanshu09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kumarpriyanshu09&icon=0&color=12)](https://visitcount.itsvg.in)
