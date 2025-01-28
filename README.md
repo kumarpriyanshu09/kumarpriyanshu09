@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>Jay Baer once said, <b><i>“We’re surrounded by data but starved for insights."</i><b></p>
+<p>Jay Baer once said, <b><i>“We’re surrounded by data but starved for insights."</i></b></p>
 <p>As a data professional, I use complex data to help you see what's coming and how to prepare for it.</p>
 
 <p>I’ve worked as a data analyst for over a year, helping teams deliver on goals.<br>
