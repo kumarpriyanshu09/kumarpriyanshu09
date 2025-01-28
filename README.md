@@ -1,5 +1,25 @@
 # 💫 About Me:
-I’m currently working on:<br>Developing innovative generative AI solutions, including optimizing RAG pipelines and enhancing chatbot performance using advanced LLM technologies like Vicuna, BERT, and ChromaDB.<br><br>I’m looking to collaborate on:<br>Projects that involve data engineering, business analytics, and business intelligence to build robust data pipelines, design intuitive dashboards, and provide data-driven insights for better decision-making.<br><br>I’m looking for help with:<br>Enhancing my expertise in large-scale data processing, advanced visualization techniques, and innovative strategies for integrating and analyzing business data to drive impactful results.<br><br>I’m currently learning:<br>Advanced methods for fine-tuning machine learning models, implementing cloud-based AI pipelines, and leveraging SAS Studio for predictive analytics.<br><br>Ask me about:<br>	•	Building ETL pipelines that improve data quality and efficiency.<br>	•	Enhancing business strategies with data-driven insights and interactive dashboards.<br>	•	Using generative AI to analyze cryptocurrency trends and forecast risks.<br><br>Fun fact:<br>I’m the kind of person who can binge-watch Naruto, run 14 miles for fun, and still find time to analyze data—all while debating whether redbull or prewrokout fuel better decision-making.
+<p>Jay Baer once said, “We’re surrounded by data but starved for insights."</p>
+<p>As a data professional, I use complex data to help you see what's coming and how to prepare for it.</p>
+
+<p>I’ve worked as a data analyst for over a year, helping teams deliver on goals.<br>
+I’ve been using Python, SQL, Power BI, and Excel for more than four years.<br>
+I recently added machine learning and AWS Cloud to my skill set.</p>
+
+<p>Not too long ago, I worked on a capstone project where I built a chatbot app to educate users about crypto.<br>
+It used RAG (retrieval-augmented generation) to explain a platform’s offerings.<br>
+I also led a team to optimize crypto trading strategies so users could reduce risk.</p>
+
+<p>These days, I’m exploring generative AI and trying to make an impact in our changing world.<br>
+Adaptability is one of my strengths.<br>
+I’ve shown it by working across different industries, tackling a wide range of projects, and collaborating with diverse teams.</p>
+
+<p>My curiosity drives me.<br>
+I often ask "how?" and "why?" because that’s how I keep learning and adapting.<br>
+I thrive on brainstorming scenarios, working with others, and doing my best in every situation.<br>
+I’m always eager to learn, share, and grow.</p>
+
+
 
 
 ## 🌐 Socials:
