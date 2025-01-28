@@ -1,23 +1,26 @@
 # 💫 About Me:
-<p>Jay Baer once said, <b><i>“We’re surrounded by data but starved for insights."</i></b></p>
-<p>As a data professional, I use complex data to help you see what's coming and how to prepare for it.</p>
+<div style="text-align: center;">
+  <p>Jay Baer once said,<i><b> “We’re surrounded by data but starved for insights."</i></b></p>
+  <p>As a data professional, I use complex data to help you see what's coming and how to prepare for it.</p>
 
-<p>I’ve worked as a data analyst for over a year, helping teams deliver on goals.<br>
-I’ve been using Python, SQL, Power BI, and Excel for more than four years.<br>
-I recently added machine learning and AWS Cloud to my skill set.</p>
+  <p>I’ve worked as a data analyst for over a year, helping teams deliver on goals.<br>
+  I’ve been using Python, SQL, Power BI, and Excel for more than four years.<br>
+  I recently added machine learning and AWS Cloud to my skill set.</p>
 
-<p>Not too long ago, I worked on a capstone project where I built a chatbot app to educate users about crypto.<br>
-It used RAG (retrieval-augmented generation) to explain a platform’s offerings.<br>
-I also led a team to optimize crypto trading strategies so users could reduce risk.</p>
+  <p>Not too long ago, I worked on a capstone project where I built a chatbot app to educate users about crypto.<br>
+  It used RAG (retrieval-augmented generation) to explain a platform’s offerings.<br>
+  I also led a team to optimize crypto trading strategies so users could reduce risk.</p>
 
-<p>These days, I’m exploring generative AI and trying to make an impact in our changing world.<br>
-Adaptability is one of my strengths.<br>
-I’ve shown it by working across different industries, tackling a wide range of projects, and collaborating with diverse teams.</p>
+  <p>These days, I’m exploring generative AI and trying to make an impact in our changing world.<br>
+  Adaptability is one of my strengths.<br>
+  I’ve shown it by working across different industries, tackling a wide range of projects, and collaborating with diverse teams.</p>
 
-<p>My curiosity drives me.<br>
-I often ask "how?" and "why?" because that’s how I keep learning and adapting.<br>
-I thrive on brainstorming scenarios, working with others, and doing my best in every situation.<br>
-I’m always eager to learn, share, and grow.</p>
+  <p>My curiosity drives me.<br>
+  I often ask "how?" and "why?" because that’s how I keep learning and adapting.<br>
+  I thrive on brainstorming scenarios, working with others, and doing my best in every situation.<br>
+  I’m always eager to learn, share, and grow.</p>
+</div>
+
 
 
 
